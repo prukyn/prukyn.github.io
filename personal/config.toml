@@ -1,16 +1,15 @@
 baseURL = "https://www.example.com"
 languageCode = "en-us"
-title = "My Digital Garden"
+title = "Персональний спейс про різне"
 theme = "digital-garden"
 themesdir = "themes"
-copyright = "Nigalya Ponya ©"
+copyright = "Петро Рикун ©"
 
 
 [params]
-  name = "Nigalya Ponya"
-  description = "Red panda living in the eastern Himalayas."
-  initials = "NP"
-  googleAnalytics = ""
+  name = "Петро Рикун"
+  description = "Персональний блог про всякі штуки-дрюки"
+  initials = "PR"
 
   [[params.social]]
     name = "Twitter"
@@ -35,19 +34,19 @@ copyright = "Nigalya Ponya ©"
 
 [menu]
   [[menu.main]]
-    name = "Digital Garden"
+    name = "Різне"
     url = "/garden/"
     weight = 1
   [[menu.main]]
-    name = "Projects"
+    name = "Проекти"
     url = "/projects/"
     weight = 2
   [[menu.main]]
-    name = "Library"
+    name = "Бібліотека"
     url = "/library/"
     weight = 3
   [[menu.main]]
-    name = "About"
+    name = "Про мене"
     url = "/about/"
     weight = 4
 
